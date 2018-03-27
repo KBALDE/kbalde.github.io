@@ -4,9 +4,9 @@ title: About the Jekyll Theme
 excerpt: So Simple is a responsive Jekyll theme for your words and images.
 modified: {}
 image:
-  feature: so-simple-sample-image-4.jpg
+  feature: KBALDETwitter.jpg
   credit: WeGraphics
-  creditlink: 'http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/'
+  creditlink: 
 published: true
 ---
 
