@@ -6,5 +6,3 @@ After working for more than 2 years as a Hadoop Administrator, a technical suppo
 
 With Machine Learning and Deep Learning powered by the open source community, I am very proud to be at the edge of these knowledges. Supervised and unsupervised learning, convolutional Neural Networks, Natural language processing.
 [un test de lien ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-
