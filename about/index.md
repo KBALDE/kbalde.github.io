@@ -1,5 +1,4 @@
 
-## From Economics To Data Science
 
 From Econometrics and Statistics fields, I started naturally working as a Data Scientist by implementing machine learning algorithms with massive data. I quickly met a constraint in computer science concepts and knowledges, such as intensive use of SQL, Java oriented distributed frameworks, clustering, data center concepts, GPU oriented algorithms, and so on. Working for more than two years as a Hadoop Administrator and  a Technical Support for  many big data analytics products such as Dataiku, Pivotal HAWQ, SPSS Analytics Server, helped me complete my profile.
  
