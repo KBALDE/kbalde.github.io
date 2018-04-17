@@ -10,7 +10,7 @@ A Little cheat sheet for using configparser.
 Pre-requisite
 configparser module must be installed with a python version
 
-### write the script
+#### Write the script
 
 ```
 vim script.py
@@ -49,7 +49,7 @@ print ("The source path is " + source_path)
 ```
 
 
-### Now  create the conf file
+#### Now  create the conf file
 
 ```
 vim conf.txt
