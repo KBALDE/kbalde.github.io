@@ -75,4 +75,3 @@ python script.py conf.txt app
 ```
 
 You have just retrieved properties from a file and now ready to provide an app with them
-
