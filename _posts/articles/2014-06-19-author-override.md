@@ -1,24 +1,28 @@
 ---
 layout: post
-title: "Override Author Byline Test Post"
-excerpt: "An article to test overriding the default site author."
+title: Override Author Byline Test Post
+excerpt: An article to test overriding the default site author.
 categories: articles
-tags: [sample-post, readability, test]
+tags:
+  - sample-post
+  - readability
+  - test
 author: billy_rick
 comments: true
 share: true
-modified: 2016-06-01T14:18:57-04:00
+modified: {}
 image:
   feature: so-simple-sample-image-7.jpg
   credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  creditlink: 'http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/'
+published: true
 ---
 
 For those of you who may have content written by multiple authors on your site you can now assign different authors to each post if desired.
 
 Previously the theme used a global author for the entire site and those attributes would be used in all bylines, social networking links, Twitter Card attribution, and Google Authorship. These `owner` variables were defined in `config.yml`
 
-Start by modifying or creating a new `authors.yml` file in the `_data` folder and add your authors using the following format.
+Start by modifying or creating a new `authors.yml` file in the
 
 ```yaml
 # Authors
