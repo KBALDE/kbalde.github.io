@@ -1,5 +1,5 @@
 # Site wide configuration
-
+theme: jekyll-theme-so-simple
 title: KBALDE
 locale: en_US
 description: A simple and clean responsive Jekyll theme for words and photos.
