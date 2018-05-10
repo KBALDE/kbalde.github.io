@@ -1,15 +1,3 @@
----
-layout: page
-title: About the Jekyll Theme
-excerpt: So Simple is a responsive Jekyll theme for your words and images.
-modified: {}
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: null
-published: true
----
-
 
 To tell a little about me, I will say I am currently a big data solution architect for Altran Technologies at Orange. What? How a young promising Economist from one of the greatest school in the world, the Toulouse School of Economics, can end up as cluster admin, Data scientist, Data engineer or Big Data solution Architect?
 The answer is simple: hardwork, curiosity and passion.
