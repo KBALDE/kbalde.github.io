@@ -1,9 +1,9 @@
 # Site wide configuration
 theme: jekyll-theme-so-simple
-title: KBALDE
+title: Big Data Architect and Data Science
 locale: en_US
 description: A simple and clean responsive Jekyll theme for words and photos.
-logo: site-logo.png
+logo: headInCloud.PNG
 url: https://kbalde.github.io
 
 # Jekyll configuration
