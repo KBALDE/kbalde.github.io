@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: About
+- title: About Me
   url: /about/
 
 #- title: Articles
@@ -10,4 +10,4 @@
 # url: /tags/
 
 - title: Search
-  url: /search/
+  url: http://kindibalde.com/pocblog/
