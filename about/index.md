@@ -1,8 +1,19 @@
 
-To tell a little about me, I will say I am currently a big data solution architect for Altran Technologies at Orange. What? How a young promising Economist from one of the greatest school in the world, the Toulouse School of Economics, can end up as cluster admin, Data scientist, Data engineer or Big Data solution Architect?
-The answer is simple: hardwork, curiosity and passion.
-But to bring more insight in the answer, I will say, from a Bachelor of Applied Mathematics, Master degrees in Statistics and Econometrics, and then in Economics, my main goal has always been learning very complicated things. Economy is for me a Science in full. With statistics, econometrics, and experimental economics, we can put any social problem in a lab and come up with solutions and hypothesis. As organization manager and through tools like incentives theories, industry regulations, rational expectations, and so on, we can drive our community toward a great well being.
-And more, I am a sort of mythic when it comes to modelisation and forecasting: If only I can put everything in my equation :-? Seeing the amount of data accumulated by our digital world, I could only be a part of it. It is a gold mine!
-At the beginning I was having struggle manipulating those amount of data, not only for the computer memory constraints, but for the lack of enough knowledges about the matter. I did some upgrade with Cloudera - Big Data Stack company. With the first version of Hadoop, I enjoyed the smart commodity storage layer, Hdfs, and its native processor, MapReduce, and other daemons like task trackers, job trackers, and so on. It reminds me the principal/agent model or delegation tricks in industry regulation - economics. The course of Andrew Ng from Coursera helps me push my statistic and econometric knowledges to engineers perspective of modelisation. suddenly, I became less smart.
-After some experience in Data Science, and Data Analysis, now am working as a Big Data Solution Architect at Orange. My day-to-day job is to tests big data softwares that use data from a hadoop cluster with all securities and architecture constraints. in this process of building proof of concept for those products, I am the main technical support to perform troubleshooting and provide expertise for their installations, configurations, and utilisations. For that, I work with software editors and use-case managers (developers and analysts) to validate the integration of new products.
-To conclude, I will say, with our great framework of learning process rewired frequently, anything can be possible. Have I read it from somewhere? I don't know, it just comes up.
+
+## About Me
+
+After some experiences in Data Science and Data Analysis, now am working as a Big Data Solution Architect at Orange. My day-to-day job is to test big data softwares that use data from a hadoop cluster with all security and architecture constraints. in this process of building proof of concept for those products, I am the main technical support to perform troubleshooting and provide expertise for installation, configuration, DevOps tasks. I work with software editors and Use-Case managers (developers and analysts) to validate the integration of new big data products.
+
+
+I am more of a Statistician that, from computer science knowledges constraint in his way up to Data Science carier profile, is doing almost everything around Big Data:
+
+  - **Data Ingestion**: fetch the data where it is produced using the right technology to store it in a well designed Data Lake.
+  
+  - **Data Analysis**: with respect to the type of data (structuured or unstructured), the best technology process the data (requesting, building new indicators), using the right programing language,
+  
+  - **Data visualization**: it is always interesting to visualize the data.
+  
+  - **Machine Learning**: after feature engineering, we need to enpower our data by not only learn from it, but make it help tranform and faciltate our environment for good.
+  
+  CV link
+  
