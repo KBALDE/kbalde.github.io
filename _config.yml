@@ -2,7 +2,7 @@
 theme: jekyll-theme-so-simple
 title: Big Data Architect and Data Science
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: We Learn and then try to Design a better way to Teach it. We owe it to the Crowd!
 logo: bigData.png
 url: https://kbalde.github.io
 
@@ -40,17 +40,17 @@ comments: true
 owner:
   name: Michael Rose
   avatar: headInCloud.PNG
-  email: michael@mademistakes.com
-  disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
-  stackexchange:
-  linkedin:
-  instagram: mmistakes
-  flickr:
-  tumblr: mademistakes
-  pinterest:
-  weibo:
-  google:
-    plus: MichaelRoseDesign
+  email: kindi.balde@gmail.com
+  disqus-shortname: kbalde
+  twitter: KindiBALDE
+  #facebook: michaelrose
+  github: kbalde
+  stackexchange:kbalde
+  linkedin:kindibalde
+  #instagram: mmistakes
+  #flickr:
+  #tumblr: mademistakes
+  #pinterest:
+  #weibo:
+  #google:
+  #  plus: MichaelRoseDesign
