@@ -7,4 +7,4 @@ published: true
 ## Data Science tools
 
 ### Spark
-[Spark ](http://kindibalde.com/your-otherFile/)
+[`Spark` ](http://kindibalde.com/your-otherFile/)
