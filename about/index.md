@@ -1,6 +1,6 @@
 
 
-## About Me
+                                            ## About Me
 
 After some experiences in Data Science and Data Analysis, now am working as a Big Data Solution Architect at Orange. My day-to-day job is to test big data softwares that use data from a hadoop cluster with all security and architecture constraints. in this process of building proof of concept for those products, I am the main technical support to perform troubleshooting and provide expertise for installation, configuration, DevOps tasks. I work with software editors and Use-Case managers (developers and analysts) to validate the integration of new big data products.
 
