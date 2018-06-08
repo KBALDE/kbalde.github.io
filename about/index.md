@@ -11,6 +11,6 @@ I am more of a Statistician that, from computer science constraint and in his wa
   
   - **Machine Learning**: after feature engineering, we need to enpower our data by not only learn from it, but make it help tranform and faciltate our environment for good.
   
-   - **Industrialization**: Models' weights are ready to be to production with respect ot the right reporting process and system archietcture.  
+  - **Industrialization**: Models' weights are ready to be to production with respect ot the right reporting process and system archietcture.  
   
   CV link
