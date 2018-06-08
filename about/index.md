@@ -1,7 +1,7 @@
 After some experiences in Data Science and Data Analysis, now I am working as Data Architect at Orange. My day-to-day job is to test the integration of big data softwares that use data from a hadoop cluster with all security and network constraints. in this process of building proof of concept on those products, I am the main technical support to perform troubleshooting and provide expertise  for DevOps tasks. I work closely with software editors and Use-Case managers (developer and analyst) to  validate my case studies in this Use case driven technolgy choice.
 
 
-I am more of a Statistician that, from computer science constraint and in his way up to Data Science carier profile, is doing almost everything around Big Data:
+I am more of a Statistician that, from computer science constraint and in his way up to Data Science carier profile, is learning almost everything around Big Data:
 
   - **Data Ingestion**: fetch the data where it is produced using the right technology to store it in a well designed Data Lake.
   
