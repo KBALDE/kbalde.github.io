@@ -5,7 +5,7 @@ I am more of a Statistician that, from computer science constraint and in his wa
 
   - **Data Ingestion**: fetch the data where it is produced using the right technology to store it in a well designed Data Lake.
   
-  - **Data Analysis**: with respect to the type of data (structuured or unstructured), the best technology process the data (requesting, building new indicators), using the right programing language,
+  - **Data Analysis**: with respect to the type of data (structuured or unstructured) and the Use case, the best technology is chosen to process the data.
   
   - **Data visualization**: it is always interesting to visualize the data.
   
