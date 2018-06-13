@@ -9,7 +9,6 @@ published: true
 
 ### Data Science 
 
-### Spark
 [`Spark` ](http://kindibalde.com/your-otherFile/)
 
 
