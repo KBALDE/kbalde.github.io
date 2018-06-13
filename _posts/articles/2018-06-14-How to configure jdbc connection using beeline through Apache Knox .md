@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## How to configure jdbc connection using beeline through Apache Knox
 
