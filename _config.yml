@@ -1,6 +1,6 @@
 # Site wide configuration
 theme: jekyll-theme-so-simple
-title: Big Data Architect and Data Science
+title: Data Engineering, Data Analysis, and Data Science
 locale: en_US
 description: We Learn and then try to Design a better way to Teach it. We owe it to the Crowd!
 logo: bigData.png
