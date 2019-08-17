@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Hadoop User Impersonation
 
@@ -34,5 +34,3 @@ We need to configure the core-site.xml file by adding proxyuser (the user that c
 ```python
 print("hello world!")
 ```
-
-
