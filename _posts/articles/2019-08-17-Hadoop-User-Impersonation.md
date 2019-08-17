@@ -7,8 +7,9 @@ Any software product comes with its applicative user. This user is the one that 
 
 In Hadoop ecosystem for instance, if you run a Hive service, which is a service that helps to do almost SQL and manage Relational Databases on top of Hadoop, the super user or applicative user is called hive by default. This user is the one that appear when you execute a command that looks if the service hive is running or just to check for hive service processes.
 
-_ps -ef  | grep hive  --color_
-
+```
+ps -ef  | grep hive  --color
+```
 
 Therefore even though you created users that could connect to Hive and create tables and Databases, the user that does all the job is the applicative user _hive_.   For cluster administrators and security managers, that is a big problem.  Since we don't know who is doing what in the cluster. We only see a generic user doing everything.
 
@@ -25,12 +26,19 @@ We need to configure the core-site.xml file by adding proxyuser (the user that c
 </property>
 ```
 
+or by groups
 
+```
+<property>
+   <name>hadoop.proxyuser.hive.groups</name>
+   <value>group_1,group_2</value>
+</property>
+```
+we can also  limit the host from which this imitation game (the iimpernation) is done.
 
-~~~html
-<a href="#">My code</a>
-~~~
-
-```python
-print("hello world!")
+```
+<property>
+   <name>hadoop.proxyuser.hive.hosts</name>
+   <value>host_1,host_2</value>
+</property>
 ```
