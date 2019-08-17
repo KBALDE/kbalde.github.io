@@ -34,7 +34,7 @@ or by groups
    <value>group_1,group_2</value>
 </property>
 ```
-we can also  limit the host from which this imitation game (the iimpernation) is done.
+we can also limit the host from which this imitation game (the impersonation) is done.
 
 ```
 <property>
