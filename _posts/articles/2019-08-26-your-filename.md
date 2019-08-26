@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-## Git : create, push, fork, pull 
+## Git: create, push, fork, pull 
 
 It is always interesting to have somewhere to keep your software installlation materials, to folllow a versionning process, and to share it wiith your people. Thanks to repositories like GitHub, GitLab, SVN, ...
 
